@@ -4,6 +4,8 @@
 ## In English : 
 - This script is a dependency for the lb-phone News app (unofficial). However, you can also use this script for other of your projects using the export mentioned below.
 
+https://forum.cfx.re/t/lb-phone-plugin-app-news/5251202
+
 ```lua
     exports.ShowScreenshot:ShowImage(image_url)
 ```
